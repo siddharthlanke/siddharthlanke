@@ -51,7 +51,7 @@ exceptional ability to learn quickly and remain calm under pressure, which is in
 industry. Your composed demeanor and ability to handle unexpected challenges with grace
 have set you apart as a reliable and effective team member."
 
-You can find the full Letter of Recommendation [here](./LOR_Siddharth Lanke_JDE.pdf).
+You can find the full Letter of Recommendation [here](https://github.com/siddharthlanke/siddharthlanke/blob/main/LOR_Siddharth%20Lanke_JDE.pdf).
 
 ## ❤️ **Staying Fit**
 
