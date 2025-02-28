@@ -71,10 +71,6 @@ You can find the full Letter of Recommendation [here](https://github.com/siddhar
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sid.lanke.123) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lankesiddharth@gmail.com)
 
-Feel free to explore my projects, connect with me, and if you need help with data science or just need someone to rant about algorithms, I’m your guy.
-
-Cheers! 🍻
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
